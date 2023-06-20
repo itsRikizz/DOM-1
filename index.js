@@ -10,7 +10,7 @@ people.forEach((item) => {
   data.push(item);
 });
 console.log(data);
-paras.forEach((item) => {
+paras.forEach((item) => { 
   //   console.log(data);
   //   data.forEach((items) => {
   //     item.innerHTML += `<span>${items}</span>`;
